@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../core/includes" />
+          <root url="file://$MODULE_DIR$/../../../core/lib" />
+          <root url="file://$MODULE_DIR$/../../../core/modules" />
+          <root url="file://$MODULE_DIR$/../../address" />
+          <root url="file://$MODULE_DIR$/../../admin_toolbar" />
+          <root url="file://$MODULE_DIR$/../../ajax_map" />
+          <root url="file://$MODULE_DIR$/../../commerce" />
+          <root url="file://$MODULE_DIR$/../../composer_manager" />
+          <root url="file://$MODULE_DIR$/../../contact_block" />
+          <root url="file://$MODULE_DIR$/../../ctools" />
+          <root url="file://$MODULE_DIR$/../amazing_feedback" />
+          <root url="file://$MODULE_DIR$/../../custom_contact" />
+          <root url="file://$MODULE_DIR$/../../ds" />
+          <root url="file://$MODULE_DIR$/../../entity" />
+          <root url="file://$MODULE_DIR$/../../entity_reference_revisions" />
+          <root url="file://$MODULE_DIR$/../../geocoder" />
+          <root url="file://$MODULE_DIR$/../../geofield" />
+          <root url="file://$MODULE_DIR$/../../google_map_field" />
+          <root url="file://$MODULE_DIR$/../../hello_world" />
+          <root url="file://$MODULE_DIR$/../../inline_entity_form" />
+          <root url="file://$MODULE_DIR$/../../layout_plugin" />
+          <root url="file://$MODULE_DIR$/../../loremipsum" />
+          <root url="file://$MODULE_DIR$/../../my_maps" />
+          <root url="file://$MODULE_DIR$/../../profile" />
+          <root url="file://$MODULE_DIR$/../../rules" />
+          <root url="file://$MODULE_DIR$/../../simple_gmap" />
+          <root url="file://$MODULE_DIR$/../../state_machine" />
+          <root url="file://$MODULE_DIR$/../../typed_data" />
+          <root url="file://$MODULE_DIR$/../../../vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../core/includes" />
+          <root url="file://$MODULE_DIR$/../../../core/lib" />
+          <root url="file://$MODULE_DIR$/../../../core/modules" />
+          <root url="file://$MODULE_DIR$/../../address" />
+          <root url="file://$MODULE_DIR$/../../admin_toolbar" />
+          <root url="file://$MODULE_DIR$/../../ajax_map" />
+          <root url="file://$MODULE_DIR$/../../commerce" />
+          <root url="file://$MODULE_DIR$/../../composer_manager" />
+          <root url="file://$MODULE_DIR$/../../contact_block" />
+          <root url="file://$MODULE_DIR$/../../ctools" />
+          <root url="file://$MODULE_DIR$/../amazing_feedback" />
+          <root url="file://$MODULE_DIR$/../../custom_contact" />
+          <root url="file://$MODULE_DIR$/../../ds" />
+          <root url="file://$MODULE_DIR$/../../entity" />
+          <root url="file://$MODULE_DIR$/../../entity_reference_revisions" />
+          <root url="file://$MODULE_DIR$/../../geocoder" />
+          <root url="file://$MODULE_DIR$/../../geofield" />
+          <root url="file://$MODULE_DIR$/../../google_map_field" />
+          <root url="file://$MODULE_DIR$/../../hello_world" />
+          <root url="file://$MODULE_DIR$/../../inline_entity_form" />
+          <root url="file://$MODULE_DIR$/../../layout_plugin" />
+          <root url="file://$MODULE_DIR$/../../loremipsum" />
+          <root url="file://$MODULE_DIR$/../../my_maps" />
+          <root url="file://$MODULE_DIR$/../../profile" />
+          <root url="file://$MODULE_DIR$/../../rules" />
+          <root url="file://$MODULE_DIR$/../../simple_gmap" />
+          <root url="file://$MODULE_DIR$/../../state_machine" />
+          <root url="file://$MODULE_DIR$/../../typed_data" />
+          <root url="file://$MODULE_DIR$/../../../vendor" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,6 @@
+ajase_main:
+  path: '/ajase'
+  defaults:
+    _controller: '\Drupal\ajase\Controller\AjaseController::main'
+  requirements:
+    _permission: 'view content'

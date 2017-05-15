@@ -1,0 +1,4 @@
+name: Database Ajax Module
+type: module
+description: 'A description of what your module does.'
+core: 8.x

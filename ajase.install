@@ -1,0 +1,32 @@
+<?php
+
+function ajase_schema() {
+    $schema['ajase'] = array(
+        'description' => 'Ajase Table',
+        'fields' => array(
+            'id' => array(
+                'description' => 'The primary identifier for a node.',
+                'type' => 'serial',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+            ),
+            'latitude' => array(
+                'description' => 'Latitude',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+            'longitude' => array(
+                'description' => 'Longitude',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+        ),
+        'primary key' => array('id'),
+    );
+    return $schema;
+}
+

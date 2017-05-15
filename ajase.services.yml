@@ -1,0 +1,6 @@
+services:
+  ajase.db_logic:
+    class: Drupal\ajase\AjaseDbLogic
+    arguments: ['@database']
+    tags:
+      - { name: backend_overridable }
